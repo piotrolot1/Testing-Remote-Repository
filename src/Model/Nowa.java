@@ -4,5 +4,30 @@ public class Nowa {
 	// Nowa klasa 
 	// to po stashu
 	
-	// To jest nie ukryte
+	
+	
+	
+	
+	sd
+	a
+	ds
+	sad
+	a
+	sda
+	sd
+	a
+	sd
+	asd
+	a
+	sd
+	a
+	da
+	sd
+	a
+	sd
+	asd
+	a
+	sd
+	a
+	s
 }
