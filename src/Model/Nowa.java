@@ -4,5 +4,7 @@ public class Nowa {
 	// Nowa klasa 
 	// to po stashu
 	
-	// To jest nie ukryte
+	wwwwww
+	wwwww
+	www
 }
